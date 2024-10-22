@@ -1,0 +1,19 @@
+
+.text-color{ 
+    color: green;
+    font: bold;
+
+}
+.allign{
+    margin:20px;
+    padding:20px;
+}
+.content-box {
+    border: 2px solid #333; /* Border around the box */
+    padding: 20px; /* Space between the content and the border */
+    margin: 20px; /* Space outside the box */
+    background-color: #f9f9f9; /* Background color */
+    border-radius: 8px; /* Rounded corners */
+    max-width: 800px; /* Maximum width of the box */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
